@@ -51,3 +51,37 @@ span.fa{
     color: white;
     font-size: 1rem;
 }
+
+#amy h3 {
+    font-family: "Arial Black", sans-serif;
+    padding: 10px 0;
+}
+
+#amy p {
+    background-color: #f0f8ff;
+    padding: 15px;
+}
+
+#amy a:link {
+    color: #ff7f50;
+    text-decoration: none;
+}
+
+#amy a:visited {
+    color: #ff7f50;
+    text-decoration: none;
+}
+
+
+#amy a:hover {
+    color: #6495ed;
+}
+
+#amy ul {
+    display: flex;
+    justify-content: center;
+}
+
+#amy li {
+    padding: 0 0.5rem;
+}
