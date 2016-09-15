@@ -18,3 +18,29 @@ span.fa{
 #alex a{
     text-decoration: none;
 }
+
+#splash {
+        text-align: center;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        background-image: linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)),
+        url(https://images.trvl-media.com/media/content/expus/graphics/launch/home/tvly/150324_flights-hero-image_1330x742.jpg);
+        background-size: cover;
+        height: 25rem;
+    }
+
+#splash h2 {
+    color: white;
+    font-family: "Arial Black", sans-serif;
+    font-size: 2rem;
+    line-height: 1.4;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+#splash p {
+    color: white;
+    font-size: 1rem;
+}
